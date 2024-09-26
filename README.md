@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1235688168142143553)](https://discord.com/users/1235688168142143553)
+[![Discord Presence](https://lanyard.cnrad.dev/api/332364946996199426)](https://discord.com/users/332364946996199426)
 
 # Mr Virus
 
