@@ -1,7 +1,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1205927004835291187)](https://discord.com/users/1205927004835291187)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Mr+Virus.;Cyber+Security+Specialist+%F0%9F%94%91+.;Full-Stack+Developer+%F0%9F%92%BB+.;Tech+Enthusiast+%F0%9F%94%A5+." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hello+%F0%9F%91%8B%2C+I'm+Mr+Virus.;.+Cyber+Security+Specialist+%F0%9F%94%91+.;Full-Stack+Developer+%F0%9F%92%BB+.;Tech+Enthusiast+%F0%9F%94%A5+." alt="Typing SVG" />
 </h1>
 
 <p align="center">
