@@ -53,5 +53,3 @@
 </div>
 
 ---
-
-> ✨ Always open to collaboration and contributions — let’s build something amazing together!
