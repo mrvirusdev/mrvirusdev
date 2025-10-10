@@ -76,7 +76,7 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
   <a href="https://github.com/mrvirusdev?tab=repositories&sort=stargazers" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/github/stars/mrvirusdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" height="35"/>
   </a>
-  <a href="https://medal-team.com" target="_blank">
+  <a href="https://mmostafa.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
   </a>
 
