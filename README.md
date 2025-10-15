@@ -97,5 +97,5 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Cyber+Security+Specialist;Full-Stack+Developer;Tech+Architect+%26+Open-Source+Contributor;Always+Building+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Thanks+For+Reading+❤️;"/>
 </p>
