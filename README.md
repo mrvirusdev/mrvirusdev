@@ -60,9 +60,10 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ### 🌍 Connect With Me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
 
 <div align="center">
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
 
   <a href="https://discord.gg/AkG5qQuTtg" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
