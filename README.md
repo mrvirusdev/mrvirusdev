@@ -1,5 +1,3 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
-
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamad+Mostafa!;Cyber+Security+Specialist+%F0%9F%94%91;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
@@ -16,6 +14,8 @@ Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate about
 **cybersecurity**, **software architecture**, and **modern web technologies**.  
 I build secure, scalable, and efficient systems — from cloud-based APIs to reactive UIs.  
 Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
 
 ---
 
