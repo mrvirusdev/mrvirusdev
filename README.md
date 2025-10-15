@@ -15,8 +15,6 @@ Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate about
 I build secure, scalable, and efficient systems — from cloud-based APIs to reactive UIs.  
 Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
-
 ---
 
 ### 🧠 Skills & Technologies
@@ -61,6 +59,8 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 ---
 
 ### 🌍 Connect With Me
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
 
 <div align="center">
 
