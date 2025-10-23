@@ -10,11 +10,11 @@
 
 ### 🌐 About Me
 
-Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate
-Founder of [@Medal Team](https://github.com/MedalTeam)
-I'm A Fullstack Developer crafting scalable, high-performance web apps using modern tools & best practices. 
-I love turning ideas into real products that users enjoy using.
-I build secure, scalable, and efficient systems — from cloud-based APIs to reactive UIs.  
+Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate |
+Founder of [@Medal Team](https://github.com/MedalTeam) |
+I'm A Fullstack Developer crafting scalable, high-performance web apps using modern tools & best practices. |
+I love turning ideas into real products that users enjoy using. |
+I build secure, scalable, and efficient systems — from cloud-based APIs to reactive UIs. |
 Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
