@@ -10,8 +10,10 @@
 
 ### 🌐 About Me
 
-Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate about  
-**cybersecurity**, **software architecture**, and **modern web technologies**.  
+Founder of [@Medal Team](https://github.com/MedalTeam) | 
+Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate
+I'm A Fullstack Developer crafting scalable, high-performance web apps using modern tools & best practices. 
+I love turning ideas into real products that users enjoy using.
 I build secure, scalable, and efficient systems — from cloud-based APIs to reactive UIs.  
 Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
@@ -84,17 +86,14 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-### ⚡ Fun Quote
-
-> “Security is not a product, but a process.” — Bruce Schneier  
-> _Building for speed is easy. Building for security and scale — that’s real engineering._
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/readme-jokes/main/assets/Geek.gif" width="250"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Thanks+For+Reading+❤️;"/>
 </p>
+
+
+[![](https://visitcount.itsvg.in/api?id=mrvirudev&label=Profile%20Views&icon=1&pretty=false)](https://visitcount.itsvg.in)
