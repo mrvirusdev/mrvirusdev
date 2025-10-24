@@ -45,12 +45,20 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Activity Graph**
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad Mostafa's%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true" alt="Activity Graph"/>
+</div>
+
+---
+
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Contribution Snake**
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iimazin11/iimazin11/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/iimazin11/iimazin11/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
