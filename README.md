@@ -39,10 +39,10 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
-![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truegithub-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truet=1761512320)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mrvirusdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truegithub-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truet=1761512320)<br/>
-![](https://github-readme-activity-graph.cyclic.app/graph?username=mrvirusdev&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=true)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&theme=dracula)
 
 ---
 
