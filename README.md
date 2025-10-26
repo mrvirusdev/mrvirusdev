@@ -4,6 +4,8 @@
 
 ---
 
+<div align="center">
+
 ## 🌐 About Me
 
 Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate |
@@ -15,9 +17,10 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
+<div align="center">
+
 ## 🧠 Skills & Technologies
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,python,django,fastapi,java,c,cs,redis,docker,linux,bash,git,github,nginx,aws,vscode&perline=9" alt="Tech Stack" />
 </div>
 
