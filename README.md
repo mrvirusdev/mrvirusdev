@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamad+Mostafa!;Cyber+Security+Specialist+%F0%9F%94%91;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
-</h1> 
+</h1>
 
 ---
 
