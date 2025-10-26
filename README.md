@@ -42,7 +42,6 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 ![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truegithub-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truet=1761512434?t=1761512450)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mrvirusdev&theme=dark&hide_border=false?t=1761512450)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truegithub-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truet=1761512434?t=1761512450)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&theme=draculaactivity-graph.vercel.app/graph?username=mrvirusdev&theme=draculat=1761512434?t=1761512450)
 
 ---
 
