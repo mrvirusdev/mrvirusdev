@@ -60,20 +60,12 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-## 🏆 GitHub Trophies :
-![](https://github-profile-trophy.vercel.app/?username=mrvirusdev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Connect With Me**
 
 <div align="center">
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
-
-  <a href="https://twitter.com/mrvirusdev" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
-  </a>
-  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)] (https://twitter.com/mrvirusdev)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
 
 </div>
