@@ -1,0 +1,30 @@
+name: 🔄 Auto Update README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *" # optional: updates every 6 hours too
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Update Timestamp or Status
+        run: |
+          echo "Updating README..."
+          DATE=$(date +"%Y-%m-%d %H:%M:%S")
+          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED--> Last updated: ${DATE} <!--END_LAST_UPDATED-->|" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: auto-update README on commit"
+          git push
