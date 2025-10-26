@@ -1,30 +1,34 @@
-name: 🔄 Auto Update README
+name: 🔁 Auto Update Profile README
 
 on:
   push:
     branches:
       - main
   workflow_dispatch:
-  schedule:
-    - cron: "0 */6 * * *" # optional: updates every 6 hours too
+
+permissions:
+  contents: write  # ✅ gives permission to push changes
 
 jobs:
-  update-readme:
+  update:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update Timestamp or Status
+      - name: Update README timestamp
         run: |
-          echo "Updating README..."
-          DATE=$(date +"%Y-%m-%d %H:%M:%S")
-          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED--> Last updated: ${DATE} <!--END_LAST_UPDATED-->|" README.md
+          echo "🕒 Updating timestamp..."
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED--> Last updated: ${DATE} <!--END_LAST_UPDATED-->|" README.md || echo "No timestamp placeholder found."
+          echo "✅ Done."
 
-      - name: Commit and Push Changes
+      - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: auto-update README on commit"
+          git diff --cached --quiet || git commit -m "auto: update readme timestamp"
           git push
