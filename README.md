@@ -33,6 +33,8 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
+<div align="center">
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
 ![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mrvirusdev&theme=dark&hide_border=false)<br/>
