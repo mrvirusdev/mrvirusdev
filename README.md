@@ -64,42 +64,23 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 ![](https://github-profile-trophy.vercel.app/?username=mrvirusdev&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 ---
 
-## 🚀 Featured Projects
-
-| 🧩 Project | 💡 Description | ⚙️ Tech Stack |
-|------------|----------------|---------------|
-| **Unifier System** | A modular architecture handling async data sync via RabbitMQ & DB pipelines | ASP.NET · RabbitMQ · SQL Server |
-| **Medal Panel** | Cloud-hosted Pterodactyl + custom Next.js admin dashboard | Docker · Nginx · Node.js |
-| **Discord Automation Bot** | Role-based automation & interaction bot | Node.js · Discord.js · TypeScript |
-
----
-
-## 🌍 Connect With Me
-
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Connect With Me**
 
 <div align="center">
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
 
-  <a href="https://discord.gg/AkG5qQuTtg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
   <a href="https://twitter.com/mrvirusdev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35" />
   </a>
-  <a href="https://github.com/mrvirusdev?tab=followers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/mrvirusdev?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" height="35"/>
-  </a>
-  <a href="https://github.com/mrvirusdev?tab=repositories&sort=stargazers" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/mrvirusdev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars" height="35"/>
-  </a>
-  <a href="https://mmostafa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" height="35"/>
-  </a>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
 
 </div>
 
 ---
+
+<div align="center">
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
