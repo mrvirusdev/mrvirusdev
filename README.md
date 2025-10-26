@@ -65,7 +65,8 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 <div align="center">
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/1211333955299704882?bg=1e1e2e&borderRadius=20px&idleMessage=💤%20Just%20chillin'...)](https://discord.com/users/1211333955299704882)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)] (https://twitter.com/mrvirusdev)
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrvirusdev)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
 
 </div>
