@@ -16,12 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Update README timestamp
+      - name: Update README timestamp & refresh images
         run: |
           echo "🕒 Updating timestamp..."
           DATE=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED--> Last updated: ${DATE} <!--END_LAST_UPDATED-->|" README.md || echo "No timestamp placeholder found."
-          echo "✅ Done."
+          TS=$(date +%s)
+          sed -i "s|<!--LAST_UPDATED-->.*<!--END_LAST_UPDATED-->|<!--LAST_UPDATED--> Last updated: ${DATE} <!--END_LAST_UPDATED-->|" README.md
+          sed -i "s|\(github-readme-stats\.vercel\.app[^ )]*\)|\1&t=${TS}|g" README.md
+          sed -i "s|\(streak-stats\.herokuapp\.com[^ )]*\)|\1&t=${TS}|g" README.md
+          sed -i "s|\(activity-graph\.vercel\.app[^ )]*\)|\1&t=${TS}|g" README.md
+          echo "✅ Refreshed cache busters: ${TS}"
 
       - name: Commit and Push changes
         env:
