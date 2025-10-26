@@ -27,7 +27,7 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-### ⚙️ Toolset & DevOps
+## ⚙️ Toolset & DevOps
 - 🐳 **Containers:** Docker · Docker Compose · Podman  
 - ☁️ **Cloud Platforms:** AWS · DigitalOcean · Render  
 - ⚙️ **CI/CD:** GitHub Actions · PM2 · Nginx Reverse Proxy  
@@ -110,7 +110,9 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!**
+<div align="center">
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mrvirusdev&style=for-the-badge&color=brightgreen)
 
