@@ -39,17 +39,17 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 <div align="center">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
-![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truegithub-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truet=1761512434)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=mrvirusdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=true)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&theme=dracula)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truegithub-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truet=1761512434)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&theme=draculaactivity-graph.vercel.app/graph?username=mrvirusdev&theme=draculat=1761512434)
 
 ---
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"t=1761512320 alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"t=1761512320activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"t=1761512320t=1761512434 alt="Activity Graph"/>
 </div>
 
 ---
@@ -98,4 +98,4 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 </p>
 
 
-<!--LAST_UPDATED--> Last updated: 2025-10-26 20:58:40 UTC <!--END_LAST_UPDATED-->
+<!--LAST_UPDATED--> Last updated: 2025-10-26 21:00:34 UTC <!--END_LAST_UPDATED-->
