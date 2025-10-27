@@ -38,10 +38,17 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 <div align="center">
 
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> **GitHub Analytics**
-![](https://github-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truegithub-readme-stats.vercel.app/api?username=mrvirusdev&theme=dark&hide_border=false&include_all_commits=true&count_private=truet=1761512434?t=1761512450?t=1761512517)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mrvirusdev&theme=dark&hide_border=false?t=1761512450?t=1761512517)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truegithub-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&theme=dark&hide_border=false&layout=compact&count_private=truet=1761512434?t=1761512450?t=1761512517)<br/>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrvirusdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mrvirusdev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mrvirusdev&theme=react&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak Stats"/>
+</div>
 
 ---
 
