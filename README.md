@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Mohamad+Mostafa!;Cyber+Security+Specialist+%F0%9F%94%91;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+MedoX!;Cyber+Security+Specialist+%F0%9F%94%91;Full-Stack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%94%A5;Always+Learning+and+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 ---
@@ -8,7 +8,7 @@
 
 ## 🌐 About Me
 
-Hey there! I’m **Mohamad Mostafa**, a self-taught developer passionate |
+Hey there! I’m **MedoX**, a self-taught developer passionate |
 Founder of [@Medal Team](https://github.com/MedalTeam) |
 I'm A Fullstack Developer crafting scalable, high-performance web apps using modern tools & best practices.
 I love turning ideas into real products that users enjoy using.
@@ -64,8 +64,8 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/medoxdev/medoxdev/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/medoxdev/medoxdev/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
