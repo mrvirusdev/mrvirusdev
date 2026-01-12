@@ -75,11 +75,11 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 <div align="center">
 
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1211333955299704882)
+  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/934799289501245491)
   [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrvirusdev)
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
   
-  <img src="https://discord.c99.nl/widget/theme-4/1211333955299704882.png" alt="Discord Status"/>
+  <img src="https://discord.c99.nl/widget/theme-4/934799289501245491.png" alt="Discord Status"/>
 
 
 </div>
