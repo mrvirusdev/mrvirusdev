@@ -24,18 +24,6 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
   <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nextjs,nodejs,express,mongodb,python,django,fastapi,java,c,cs,redis,docker,linux,bash,git,github,nginx,aws,vscode&perline=9" alt="Tech Stack" />
 </div>
 
----
-
-## ⚙️ Toolset & DevOps
-- 🐳 **Containers:** Docker · Docker Compose · Podman  
-- ☁️ **Cloud Platforms:** AWS · DigitalOcean · Render  
-- ⚙️ **CI/CD:** GitHub Actions · PM2 · Nginx Reverse Proxy  
-- 🔐 **Security:** OWASP · Helmet · Fail2Ban · SSL/TLS · JWT  
-- 💾 **Databases:** PostgreSQL · MongoDB · Redis · MySQL  
-- 🧰 **Languages:** JavaScript · TypeScript · Python · C# · Bash
-
----
-
 <div align="center">
 
 
@@ -60,48 +48,14 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Contribution Snake**
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/mrvirusdev/mrvirusdev/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Connect With Me**
 
 <div align="center">
-
-  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/934799289501245491)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrvirusdev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
-  
-  <img src="https://discord.c99.nl/widget/theme-4/934799289501245491.png" alt="Discord Status"/>
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
 </div>
-
----
-
 <div align="center">
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-<div align="center">
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=mrvirusdev&style=for-the-badge&color=brightgreen)
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Thanks+For+Reading+❤️;"/>
-</p>
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!**
 
 
 <!--LAST_UPDATED--> Last updated: 2026-01-12 18:41:45 UTC <!--END_LAST_UPDATED-->
