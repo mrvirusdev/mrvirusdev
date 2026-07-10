@@ -48,13 +48,9 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> **Connect With Me**
-
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mmostafa.com/)
-</div>
 <div align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=mrvirusdev&style=for-the-badge&color=brightgreen)
+
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> **Thanks for visiting!**
 
 
