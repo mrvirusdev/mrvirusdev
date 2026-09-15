@@ -48,13 +48,13 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api?username=mrvirusdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+  src="https://github-readme-stats.vercel.app/api?username=mrvirusdev&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"?t=1789511564
   alt="GitHub Stats"
 />
 
 <img
   height="180em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrvirusdev&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866"?t=1789511564
   alt="Top Languages"
 />
 
@@ -74,7 +74,7 @@ Constantly exploring new stacks, automations, and DevOps workflows ⚙️.
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=mrvirusdev&custom_title=Mohamad%20GitHub%20Activity%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area_color=FFFFFF&area=true&hide_border=true"?t=1789511564
   alt="Mohamad GitHub Activity Graph"
 />
 
